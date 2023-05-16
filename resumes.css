@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+*,
+
+head{
+   
+   text-align: center;
+   color: whitesmoke;
+   
+   
+
+ }
+
+ 
+ 
+ body{
+    padding: 0.5rem;
+    box-sizing: border-box;
+    background-image: url(sky-full-of-stars-5k-b1-2932x2932.jpg);
+    
+    
+ }
+ 
+ h4{
+   font-family: 'Rubik', sans-serif;
+   font-size: 30px;
+   
+ }
+ 
+ h1{
+    font-family: 'Rubik', sans-serif;
+    padding: 1rem;
+    color: whitesmoke;
+    font-size: 30px;
+    text-decoration: underline;
+ }
+ h2{
+   font-family: 'Open Sans', sans-serif;
+   color: whitesmoke;
+   text-shadow: 1px 1px 1px #ECCDB4;
+   
+   }
+   p{
+    font-family: 'Noto Sans', sans-serif;
+    padding: 1rem;
+    color: whitesmoke;
+
+   }
+   h3{
+    font-family: 'Rubik', sans-serif;
+    padding: 1rem;
+    color: whitesmoke;
+    font-size: 30px;
+
+   }
+
+
+
+ 
+ ul {
+  list-style: none;
+  font-family: 'Rubik', sans-serif;
+  padding: 0.5rem;
+  color: whitesmoke;
+  text-shadow: 1px 1px 1px #000000;
+
+  
+  
+  
+}
+
+ footer{
+   font-family: 'Rubik', sans-serif;
+   padding: 0.5rem;
+   font-size: 19px;
+   line-height: 1.5;
+   color: whitesmoke;
+
+ }
+ a{
+  color: whitesmoke;
+  
+
+ }
+ i{
+  color: whitesmoke;
+  margin: 0 3px;
+}
